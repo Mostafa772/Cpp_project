@@ -1,5 +1,4 @@
-# Cpp_project
-## Legends Tennis 
+# Legends Tennis 
 
 A simple game using cpp and QT.
 It will have three options hopefully, the first and the main one is against the computer,
